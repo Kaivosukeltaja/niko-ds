@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>icons/action/sorter_up</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M13.3106237,20.7379801 C13.3106237,21.424521 12.7246916,21.9817136 12.0015709,21.9817136 C11.2784501,21.9817136 10.692518,21.424521 10.692518,20.7379801 L10.692518,9.6828095 L8.12991622,9.6828095 C7.73510589,9.6828095 7.5,9.50570185 7.5,9.25247772 C7.5,9.16292891 7.5298464,9.06343023 7.59268094,8.95895662 L11.4884222,2.78506371 C11.7696067,2.40497876 12.2309169,2.40497876 12.5131487,2.78506371 L16.4078427,8.95895662 C16.4701536,9.06293274 16.5,9.16243141 16.5,9.25198022 C16.5,9.50520436 16.2643705,9.6828095 15.8690365,9.6828095 L13.3106237,9.6828095 L13.3106237,20.7379801 Z" id="path-1"></path>
+    </defs>
+    <g id="icons/action/sorter_up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Icon-colour" fill="#222222" xlink:href="#path-1"></use>
+    </g>
+</svg>
