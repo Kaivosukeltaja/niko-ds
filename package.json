@@ -1,5 +1,5 @@
 {
-  "name": "niko-ds",
+  "name": "@kaivosukeltaja/niko-ds",
   "version": "0.0.1",
   "description": "My sandbox StencilJS Web Component library",
   "main": "dist/index.cjs.js",
