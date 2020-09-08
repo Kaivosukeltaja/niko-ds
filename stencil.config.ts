@@ -5,7 +5,7 @@ export const config: Config = {
   namespace: 'niko-ds',
   outputTargets: [
     reactOutputTarget({
-      componentCorePackage: 'niko-ds',
+      componentCorePackage: '@kaivosukeltaja/niko-ds',
       proxiesFile: '../niko-ds-react/src/components.ts',
     }),    
     {
